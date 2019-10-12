@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+
+
+    <h1>Productos</h1>
+
+    <form>
+        <label for="people-form-model">MODELO</label>
+        <input type="text" name="model" id="people-form-model">
+        <br>
+        <label for="people-form-yearFabrication">AÑO DE FABRICACIÓN</label>
+        <input type="text" name="yearFabrication" id="people-form-yearFabrication">
+        <br>
+        <label for="people-form-color">COLOR</label>
+        <input type="text" name="color" id="people-form-color">
+        <br>
+        <button type="submit">Enviar</button>
+    </form>
+
+    <section>
+    <ul>
+        
+    </ul>
+    <form class="ordenamiento"action="/api/people" method="GET">
+        <select name="orderType">
+            <option value="orderYear">Ordenar por año de FABRICACIÓN</option>
+            <option value="orderModel">Ordenar por MODELO</option>
+        </select>
+        <button type="submit">Ordenar</button>
+    </form>
+   </section>
+
+
+
+    
+    <script src="/scripts/home.js"></script>
+    
+</body>
+</html>

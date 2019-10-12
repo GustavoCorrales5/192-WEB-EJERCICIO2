@@ -1,0 +1,19 @@
+[object Object][object Object],[object Object]
+   Nombre: hola
+   Apellido: jiji
+   Edad: 65
+
+   ----------------------------------
+   
+   Nombre: hola
+   Apellido: jiji
+   Edad: 65
+
+   ----------------------------------
+   
+   Nombre: hola
+   Apellido: jiji
+   Edad: 65
+
+   ----------------------------------
+   [object Object][object Object],[object Object][object Object],[object Object],[object Object][object Object],[object Object],[object Object],[object Object][object Object],[object Object],[object Object],[object Object],[object Object][object Object][object Object],[object Object][object Object][object Object][object Object],[object Object][object Object],[object Object],[object Object][object Object],[object Object],[object Object],[object Object][object Object][object Object][object Object][object Object][object Object],[object Object][object Object],[object Object],[object Object][object Object][object Object][object Object][object Object],[object Object][object Object][object Object],[object Object][object Object],[object Object],[object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object],[object Object][object Object],[object Object],[object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object],[object Object][object Object],[object Object],[object Object][object Object][object Object][object Object][object Object][object Object],[object Object][object Object][object Object]
